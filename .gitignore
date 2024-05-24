@@ -1,0 +1,15 @@
+# Mac stuff
+.DS_Store
+
+# Virtual python env stuff
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# Keras models
+.keras
+
+# Python cache
+__pycache__/
