@@ -8,7 +8,7 @@ Demonstration dataset used for a technical blog @[Folder IT](https://folderit.ne
 
 # Data acquisition
 
-All pictures where taken from [Unsplash](https://unsplash.com)
+All pictures were taken from [Unsplash](https://unsplash.com)
 
 # How to build:
 
